@@ -40,7 +40,7 @@ h2 {
 
 .split {
   position: fixed;
-  bottom: 20vh;
+  bottom: 5vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -90,10 +90,10 @@ button {
 @keyframes shrink-and-move {
   /* Removed the delay from the animation definition */
   to {
-    width: 80vw; /* Adjust final width as needed */
+    width: 70vw; /* Adjust final width as needed */
     height: auto;
     top: 20px; /* Adjust final top position as needed */
-    left: 30px; /* Adjust final left position as needed */
+    left: 17vw; /* Adjust final left position as needed */
     position: absolute; /* Change to absolute after animation for normal flow */
     object-fit: contain;
   }
