@@ -23,7 +23,7 @@ body {
 
 .logo {
   position: fixed;
-  top: 300px;
+  top: 200px;
   left: 0;
   width: 100vw;
   height: auto;
@@ -62,13 +62,13 @@ button {
 }
 
 .btn1 {
-  background-color: #ff1e1e;
-  color: #fff;
+  background-color: #f36621;
+  color: #191919;
 }
 
 .btn2 {
   background-color: #191919;
-  color: #ff1e1e;
+  color: #f36621;
 }
 
 .empresas-logo {
