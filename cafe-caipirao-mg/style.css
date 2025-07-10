@@ -16,7 +16,7 @@ body {
   position: fixed;
   /*top: 0;*/
   width: auto;
-  height: 110vw;
+  height: 110vh;
   z-index: -1;
   opacity: 0;
   animation: videosurge 2s ease-in-out forwards 1s;
