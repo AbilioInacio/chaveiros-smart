@@ -104,9 +104,8 @@ button {
   /* Removed the delay from the animation definition */
   to {
     transform: translateY(20px); /* Start slightly below final position */
-    transition: backgroud-image 0.5 3s ease-in-out 2s,
-      transform 3s ease-in-out 2s; /* 2s delay before fading/sliding in */
-    background-image: none;
+    transition: opacity 0.5 3s ease-in-out 2s, transform 3s ease-in-out 2s; /* 2s delay before fading/sliding in */
+    opacity: 0.8;
   }
 }
 
