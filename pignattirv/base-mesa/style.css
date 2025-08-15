@@ -92,8 +92,8 @@ button {
   to {
     width: 70vw; /* Adjust final width as needed */
     height: auto;
-    top: 20px; /* Adjust final top position as needed */
-    left: 17vw; /* Adjust final left position as needed */
+    top: 150px; /* Adjust final top position as needed */
+    left: 15vw; /* Adjust final left position as needed */
     position: absolute; /* Change to absolute after animation for normal flow */
     object-fit: contain;
   }
